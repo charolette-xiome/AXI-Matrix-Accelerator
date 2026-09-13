@@ -351,8 +351,8 @@ You can check the timing logs using [**GTKWave**](https://gtkwave.sourceforge.ne
 ---
 
 ## Author
-**Raveem Gouda**
-✉️goudaraveem@gmail.com
+**Utpal Raj Ambastha**
+✉️utpalambastha2006@gmail.com
 >Image credits:
 - *All block diagrams created with draw.io.*
 - *Matrix multiplication visualization (2×2 MAC array animation) generated with the help of Claude (Anthropic).*

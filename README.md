@@ -330,26 +330,6 @@ Raw simulation dump files (`.vcd`) for each pipeline stage are available in the 
 
 You can check the timing logs using [**GTKWave**](https://gtkwave.sourceforge.net/) or [**Surfer**](https://surfer-project.org/)
 
-## Current Status
-
-* [x] Control plane verification complete
-* [x] Data plane verification complete
-* [x] Random Stall & Backpressure testing complete
-* [x] Reference model & scoreboard complete
-* [x] Functional coverage implemented
-* [x] System-level UVM bring-up completed
-
-<!-- ---
-
-## Planned Enhancements
-
-* Full M×N×K parameterization
-* Additional stress regressions
-* Performance counters
-* Assertion-based coverage expansion -->
-
----
-
 ## Author
 **Utpal Raj Ambastha**
 ✉️utpalambastha2006@gmail.com
